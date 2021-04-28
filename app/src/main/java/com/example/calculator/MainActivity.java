@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import org.mariuszgromada.math.mxparser.*;
 
 
+@SuppressWarnings("ALL")
 public class MainActivity extends AppCompatActivity {
 
     private EditText usersInputBox;
